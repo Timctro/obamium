@@ -69,7 +69,7 @@ After opening your downloaded files from open`config.json` and follow these guid
 	"ownerID" : "your.owner.id",
 	"dbotAuth" : "your.invitation.id"
 }
-
+```
 Open `bot.js and follow these guidelines`:
 
    - *Optional* **14th line**: customize the dm answer your bot will send. 
