@@ -90,6 +90,9 @@ Open up 'config.txt', and type your token in the specified area, and the ownerID
 # Additional Coding
 As said above, Obamium is based on discord.js@12.2.0, which provides [wonderful documentation](https://discord.js.org/#/docs/main/12.2.0/general/welcome), although being deprecated. Other than that, all things written in 'bot.js' are all able to be added on to, but as the license says, you must share it with the same attributes and License.
 
+## Background
+So I was on Discord the other day, and I was trialing this stupid AI bot I made, using historical data for meme responses, and then le pumpkin#5375 (<@!796327341294485504>) questioned my AI, calling it a "say bot/sudo", and so I kind of got triggered and overreacted by starting this project :/
+
 ## Credits and Notes
 Copyright (c) 2021 Timctro; George W. Bush School of Covid-420.
 Credits to @jagrosh and @EldknMD
