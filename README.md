@@ -5,6 +5,7 @@ Obamium was created as a meme, although it has since grew out of hand, with [som
 # Features
 - [x] Music Bot
 - [x] Autoresponses and triggers using Discord.js
+- [x] Machine Learning (in theory)
 - [ ] Machine Learning
 - [ ] AI
 - [ ] Moderation
@@ -86,6 +87,9 @@ Open `bot.js and follow these guidelines`:
 After saving that, open Windows Powershell in the folder's directory, and execute `node bot.js`. Then, the autoresponse side of the bot is done. 
 
 Open up 'config.txt', and type your token in the specified area, and the ownerID in the place specified. Replace the prefix with the prefix you made with the previous script, save the script, and execute 'JMusicBot-0.3.4.jar', ignoring the starting prompt, and 'voila!', your bot now has the ability to play music.
+
+### Step six; the end
+Now, as we reach the end, you may be thinking, "how do we power down the bot?". This is easily done, by ending the powershell windows/terminal, and ending the JMusicBot console.
 
 # Additional Coding
 As said above, Obamium is based on discord.js@12.2.0, which provides [wonderful documentation](https://discord.js.org/#/docs/main/12.2.0/general/welcome), although being deprecated. Other than that, all things written in 'bot.js' are all able to be added on to, but as the license says, you must share it with the same attributes and License.
