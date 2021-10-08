@@ -93,4 +93,5 @@ As said above, Obamium is based on discord.js@12.2.0, which provides [wonderful 
 ## Credits and Notes
 Copyright (c) 2021 Timctro; George W. Bush School of Covid-420.
 Credits to @jagrosh and @EldknMD
+
 Last updated 2021-10-08
