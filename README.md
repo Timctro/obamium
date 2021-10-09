@@ -55,7 +55,7 @@ After finding that, head down to the bot section, and click 'Add Bot' in the Bui
 Using that link, add your bot to a server!
 
 ### Step five; the coding part - settings
-After opening your downloaded files from open`config.json` and follow these guidelines:
+After opening the file folder "obamium_chatresponse" in the allocated download folder, open`config.json` in a text editor and follow these guidelines:
    - *Mandatory* **Your bot token** Enter your bot token into the area designated.
 
    - *Optional* **Your bot prefix**: A prefix is the "warning" message the bot is looking for start a script. Is a "listen up the following" message. You can change it to anything.
@@ -80,17 +80,17 @@ Open `bot.js and follow these guidelines`:
 
    - *Optional* **19th to 25th lines**: customize the embed (like "composite") welcome message this bot sends upon the reception of a new member in the server. There is a short comment bellow these lines with the embed message components.
 
-   - *Optional*: There's a few default word-triggeed reactions by default. Some of the triggers are `hello` , `good bye` and `on a mote of dust, suspended in a sunbeam`. The reactions are the [unicode](https://unicode.org/emoji/charts/full-emoji-list.html) emojis one line below the `message.content` statement. Only this kind of emojis are allowed in the way it's coded here. I'll add more ways to do it in the [wiki](https://github.com/EldknMD/discord-js-chatbot-template/wiki) in the future.
+   - *Optional*: There's a few default word-triggeed reactions by default. Some of the triggers are `hello` and `good bye`.
 
    - *Optional*: the `const botStateArray` contains different "activities" for your bot. They are seen as `Playing (some text here)` in the right column of the server. 
    65th line sets the cooldown between the bot activity change in miliseconds.
 
 After saving that, open Windows Powershell in the folder's directory, and execute `node bot.js`. Then, the autoresponse side of the bot is done. 
 
-Open up 'config.txt', and type your token in the specified area, and the ownerID in the place specified. Replace the prefix with the prefix you made with the previous script, save the script, and execute 'JMusicBot-0.3.4.jar', ignoring the starting prompt, and 'voila!', your bot now has the ability to play music.
+From 0.2.0 and onwards, we have included a Distube package in the music section that also is executed by node.js, therefore limiting the usage of @jagrosh code. Open up 'Obamium Music' file folder, and open up 'config.json' in a text editor. Edit the token to your bots token, and read the 'README.txt' file for further help. To execute the music bot, open Windows Powershell in the Obamium Music directory and execute `node .`. Then, your music bot is up! I recommend powering up the music bot first, to make the bot's status fluid.
 
 ### Step six; the end
-Now, as we reach the end, you may be thinking, "how do we power down the bot?". This is easily done, by ending the powershell windows/terminal, and ending the JMusicBot console.
+Now, as we reach the end, you may be thinking, "how do we power down the bot?". This is easily done, by ending the powershell windows/terminal.
 
 # Additional Coding
 As said above, Obamium is based on discord.js@12.2.0, which provides [wonderful documentation](https://discord.js.org/#/docs/main/12.2.0/general/welcome), although being deprecated. Other than that, all things written in 'bot.js' are all able to be added on to, but as the license says, you must share it with the same attributes and License.
@@ -102,4 +102,4 @@ So I was on Discord the other day, and I was trialing this stupid AI bot I made,
 Copyright (c) 2021 Timctro; George W. Bush School of Covid-420.
 Credits to @jagrosh and @EldknMD
 
-Last updated 2021-10-08
+Last updated 2021-10-10
