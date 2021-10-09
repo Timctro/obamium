@@ -14,7 +14,6 @@ Obamium was created as a meme, although it has since grew out of hand, with [som
 
 # Requirements
 - Must have Node.js 16+ installed
-- Must have Discord.js@12.2.0 installed
 - Best if Windows 7+
 - Must have Java SE Binary
 - Must have a Discord Account, and Manage Server permissions in a server
@@ -23,20 +22,18 @@ Obamium was created as a meme, although it has since grew out of hand, with [som
 # How to set up
 Setting up Obamium isn't hard, but it isn't easy either!
 ### Step one; Download everything
-Download [obamium_installer_redirect.bat](https://github.com/Timctro/obamium/releases/tag/v0.1.8). Don't worry - it isn't a virus!
+Download [the newest Obamium Installer, preferrably .exe](https://github.com/Timctro/obamium/releases/). Don't worry - it isn't a virus!
 
 ![Example Image](https://64.media.tumblr.com/f8bbe732545bb4e1cbd9f4304065567b/e2620792a7355eff-eb/s640x960/b100122d6dee559bc2abc4aea50df2c89148104c.png)
 
 ### Step two; Install everything
-Run the batch file. If it isn't compatible, unfortunately, your operating system isn't applicable for this. I recommend using Windows 7+, but it's entirely based on performance. If you run into any antiviruses, bypass them and continue running the batch file.
+iF you have downloaded the .exe file, skip the next two paragraphs. Run the batch file. If it isn't compatible, unfortunately, your operating system isn't applicable for this. I recommend using Windows 7+, but it's entirely based on performance. If you run into any antiviruses, bypass them and continue running the batch file.
 
 ![Example Image 2](https://64.media.tumblr.com/58cdb5e1f1f33f388ca50e9ac0cff313/05cb4e11db2632bf-cb/s1280x1920/8e23e0a1f94f430fa6d054c1d1653d5c4ff6f676.png)
 After that, you should encounter some random confirmation messages, but then, you will be redirected to a [link](https://bit.ly/3AyQfyh) that is crucial to install, even if you think its a virus (I honestly don't care).
 
 ![Example Image 3](https://64.media.tumblr.com/1865c8e760f672a32ed2ad54e0153a4c/d8a00dbaf29ac24b-52/s500x750/b272ec6be9af2d943d74170efae44569af4d423a.png)
-Download the file and run obamium_installer_x64.exe (I assure you it's not a virus 🤣). You should see an Obama Prism icon, with a few prompts, such as "Select install" mode, "Language", and then it will come to a scary looking License Agreement, that can be bypassed with ease, as long as you are downloading and using the software from this website, or by me in person.
-
-![Example Image 5](https://64.media.tumblr.com/97fb365ac4129630ad555ae40cd47779/0b4bc30e2a24b509-3d/s640x960/a23252852cf268837708f1626f0e33c05a09b9d2.png)
+Download the file and run the .exe file(I assure you it's not a virus 🤣). You should see an Obama Prism icon, with a few prompts, such as "Select install" mode, "Language", and then it will come to a scary looking License Agreement, that can be bypassed with ease, as long as you are downloading and using the software from this website, or by me in person.
 
 After that, you should reach a password protected thing, and this is to see if you actually are reading this. In the case that you are, as you are obviously doing right now, the answer is "obamium".
 With that, the wizard then asks for a few more details, including a folder to extract to, a start menu folder name, desktop shortcut, and finally, Obamium is able to be downloaded. By default, if the installation goes well, a few ending information boxes will pop up, and you can traverse to your allocated extraction spot (on default, C:\Obamium Source), and that will contain all necessary files.
