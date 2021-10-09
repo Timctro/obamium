@@ -13,11 +13,12 @@ Obamium was created as a meme, although it has since grew out of hand, with [som
 - [ ] Image API as complex as Dank Memer!
 
 # Requirements
-- Must have Node.js installed
+- Must have Node.js 16+ installed
 - Must have Discord.js@12.2.0 installed
 - Best if Windows 7+
 - Must have Java SE Binary
 - Must have a Discord Account, and Manage Server permissions in a server
+- Must have Python 3.9+
 
 # How to set up
 Setting up Obamium isn't hard, but it isn't easy either!
